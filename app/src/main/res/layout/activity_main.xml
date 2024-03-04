@@ -131,7 +131,7 @@
             android:textColorHint="#FF000000"
             android:textSize="14sp"
             android:textColor="#FF000000"
-            android:text="PP. Al Fithrah"
+            android:text="Ma'had Aly An-Nur II"
             android:id="@+id/etLokasi" />
 
     </LinearLayout>
@@ -326,7 +326,7 @@
             android:textColorHint="#FF000000"
             android:textSize="14sp"
             android:textColor="#FF000000"
-            android:text="PP. Al Fithrah"
+            android:text="Ma'had Aly An-Nur II"
             android:id="@+id/etLf" />
 
     </LinearLayout>
@@ -349,11 +349,11 @@
         <EditText
             android:layout_height="wrap_content"
             android:layout_width="match_parent"
-            android:hint="Agus Saputra"
+            android:hint="Akmal Aqil"
             android:textColorHint="#FF000000"
             android:textSize="14sp"
             android:textColor="#FF000000"
-            android:text="Agus Saputra"
+            android:text="Akmal Aqil"
             android:id="@+id/etHasib" />
 
     </LinearLayout>
